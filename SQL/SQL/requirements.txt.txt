@@ -1,0 +1,6 @@
+pandas
+streamlit
+flask
+gevent
+llama-cpp-agent
+llama-cpp-python
